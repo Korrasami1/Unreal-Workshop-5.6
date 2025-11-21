@@ -14,7 +14,6 @@ Project Setup is the first release, you can then follow step by step with Worksh
 - Camera Possession (Triggering Cutscenes)
 - Camera Rigs
 - Particle Systems
-- Materials
 - Rendering into a Video
 
 ## Part 2 - Gameplay
