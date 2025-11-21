@@ -18,6 +18,8 @@ Project Setup is the first release, you can then follow step by step with Worksh
 - Camera Possession
 - Rendering into a Video
 
+![alt text](https://github.com/Korrasami1/Unreal-Workshop-5.6/blob/develop/CinematicWorkshop/Screenshot%202025-11-21%20225933.png?raw=true) 
+
 ## Part 2 - Gameplay
 - How Unreal Engine Works
 - Building our Scene
