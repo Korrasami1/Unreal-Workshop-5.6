@@ -10,11 +10,15 @@ It is broken up into two segments
 Project Setup is the first release, you can then follow step by step with Workshop Instructions via a PowerPoint Presentation: [Unreal Workshops]() 
 
 ## Part 1 - Cinematics
+- Environment Setup
 - Sequencer
-- Camera Possession (Triggering Cutscenes)
 - Camera Rigs
 - Particle Systems
+- Character & Audio
+- Camera Possession
 - Rendering into a Video
+
+
 
 ## Part 2 - Gameplay
 - How Unreal Engine Works
