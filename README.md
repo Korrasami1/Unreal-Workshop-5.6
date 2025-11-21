@@ -18,7 +18,7 @@ Project Setup is the first release, you can then follow step by step with Worksh
 - Camera Possession
 - Rendering into a Video
 
-
+![alt text](CinematicWorkshop/Screenshot 2025-11-21 225933.png)
 
 ## Part 2 - Gameplay
 - How Unreal Engine Works
